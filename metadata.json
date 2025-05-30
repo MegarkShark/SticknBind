@@ -1,0 +1,17 @@
+{
+    "id": "snb",
+    "name": "Stick n' Bind",
+    "display_name": "Stick n' Bind",
+    "author": ["MegarkShark"],
+    "description": "Makes all the stickers smaller and the Stakes stickers into binders", 
+    "prefix": "stick",
+    "main_file": "main.lua",
+    "priority": 1,
+    "badge_colour": "EBA628",
+    "badge_text_colour": "FCFCFC",
+    "version": "1.0.0'",
+    "dependencies": [
+        "malverk (1.1.3)"
+        
+    ]
+}
