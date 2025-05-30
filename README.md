@@ -1,6 +1,7 @@
 # What's this?
 
-A small texture that changes stakes stickers AND stickers to take less space, for you to show whatever art you want in case you are developing a texture pack!
+A small texture that changes stakes stickers AND stickers to take less space while still being easy to read from afar, for you to show whatever art you want in case you are developing a texture pack!
+
 And due to how Malverk is set up, it also includes stakes with icons for readability (And because if I needed to add them to make the stakes stickers work, I WILL change them)
 
 # How to install: 
